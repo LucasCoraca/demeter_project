@@ -1,5 +1,7 @@
 # Demeter Project
 
+![alt text](https://preview.ibb.co/fDecpc/Screen_Shot_2018_03_13_at_10_27_03.png)
+
 The objective of this project was to develop software that allows an ArduPilotMega drone to survey an plantation and return with an NDVI map autonomously.
 
 # Warning
