@@ -6,7 +6,7 @@ The objective of this project was to develop software that allows an ArduPilotMe
 
 # Warning
 
-All these softwares are a proof of concept. Barely tested and it is not recommended to use as is on a real world application.
+All these softwares are a proof of concept. Barely tested and it should not be used as is on a real world application.
 
 ## Oracle Mapping
 
